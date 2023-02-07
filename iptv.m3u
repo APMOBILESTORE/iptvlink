@@ -27,7 +27,6 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/static/public/leftnav/Zee-24-Kalak.png" group-title="News", Zee 24 Kalak
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_1.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7014.ABPNews.in/en/1x1/208x208/test_pic1608057116851.jpg" group-title="News", ABP News (720p)
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
@@ -39,7 +38,6 @@ https://d1ribbj7ls43cr.cloudfront.net/hls/7016.ABPMajha.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7015.ABPAnanda.in/en/1x1/208x208/test_pic1608057252931.jpg" group-title="News", ABP Anand
 https://d1ribbj7ls43cr.cloudfront.net/hls/7015.ABPAnanda.in.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7017.ABPGanga.in/en/1x1/208x208/test_pic1608057289870.jpg" group-title="News", ABP Ganga
 https://d1ribbj7ls43cr.cloudfront.net/hls/7017.ABPGanga.in.m3u8
