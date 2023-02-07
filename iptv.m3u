@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U3SlVLx.png" group-title="Entertainment", 3 Tamil TV (720p) [Not 24/7]
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music", 7S Music (576p) [Not 24/7]
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music", 9XM (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", A NEWS Maffia Tv Desi Musix
-http://newsmaffia.casacam.net:1935/newsmaffia/newsmaffia/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News", Aaj Tak (360p) [Geo-blocked]
 https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 
@@ -50,6 +35,21 @@ https://d1ribbj7ls43cr.cloudfront.net/hls/7019.ABPAsmita.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0091.IndiaTV.in/en/1x1/208x208/test_pic1541353350078.JPG" group-title="News", India TV
 https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in.m3u8
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U3SlVLx.png" group-title="Entertainment", 3 Tamil TV (720p) [Not 24/7]
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music", 7S Music (576p) [Not 24/7]
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music", 9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", A NEWS Maffia Tv Desi Musix
+http://newsmaffia.casacam.net:1935/newsmaffia/newsmaffia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENImp3R.png" group-title="Kids", Akaram Kidz (460p) [Not 24/7]
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
